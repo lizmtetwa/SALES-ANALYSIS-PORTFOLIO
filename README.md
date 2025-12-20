@@ -13,19 +13,19 @@ This project explores sales performance using multiple metrics to uncover busine
 
 
 ## Total Sales by Day of the Week
-![Total Sales by Day of the Week](total_sales_by_day.png)  
+![Total Sales by Day of the Week](total_sales_by_day_of_the_week.png)  
 > Analysis shows weekends have higher sales, while weekdays are lower, helping guide staffing and promotions.
 
 ---
 
 ## Total Sales by Product in Mandalay, Naypyitaw, and Yangon
-![Total Sales by Product in Mandalay, Naypyitaw, and Yangon](total_sales_by_product_cities.png)  
-> Different cities have varying top-selling products. Yangon leads in certain products, Mandalay favors others. This informs inventory and marketing strategies.
+![Total Sales by Product](total_sales_by_product_in_mandalay_naypyitaw_and_yangon.png)  
+> Different cities have varying top-selling products. Yangon leads in certain products, Mandalay favours others. This informs inventory and marketing strategies.
 
 ---
 
 ## Correlation Matrix Heatmap
-![Correlation Matrix Heatmap](correlation_heatmap.png)  
+![Correlation Matrix Heatmap](visualised_the_correlation_matrix_as_a_heatmap.png)  
 > The heatmap reveals relationships between variables, identifying strong correlations and potential multicollinearity, supporting deeper analysis.
 
 ---
@@ -34,7 +34,7 @@ This project explores sales performance using multiple metrics to uncover busine
 
 ## Key Insights
 - Weekends consistently generate higher sales than weekdays.  ### Average Basket Size per Week
-![Average Basket Size per Week](average_basket_size_per_week.png)
+![Average Basket Size per Week](average_busket_size_per_week.png)
 > This visualization shows how the average basket size changes each week, helping identify peak shopping periods and optimize promotions or stock levels.
 
 - Product popularity varies by city, highlighting the need for targeted marketing and stocking strategies.  
