@@ -18,7 +18,7 @@ This project explores sales performance using multiple metrics to uncover busine
 
 ---
 
-## Total Sales by Product in Mandalay, Naypyitaw, and Yangon
+## Total Sales by Product in Madalay, Naypyitaw, and Yangon
 ![Total Sales by Product](total_sales_by_product_in_madalay_naypyitaw_and_yangon.png)  
 > Different cities have varying top-selling products. Yangon leads in certain products, Mandalay favours others. This informs inventory and marketing strategies.
 
