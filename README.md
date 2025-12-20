@@ -14,7 +14,7 @@ This project explores sales performance using multiple metrics to uncover busine
 
 ## Total Sales by Day of the Week
 ![Total Sales by Day of the Week](total_sales_by_day_of_the_week.png)  
-> Analysis shows weekends have higher sales, while weekdays are lower, helping guide staffing and promotions.
+> Analysis shows Tuesdays and Saturdays have higher sales, while the rest of the days are slightly lower, helping guide staffing and promotions.
 
 ---
 
