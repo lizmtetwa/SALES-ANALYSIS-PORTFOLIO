@@ -54,36 +54,11 @@ The cleaned dataset was used for exploratory analysis and visualisation to ensur
 
 
 
----### Total Sales by Month (Calculated and Visualised)
-![Total Sales by Month](total_sales_by_month_calculated_and_visualised.png)
-> Shows monthly sales trends, highlighting peaks and troughs to guide business planning and forecasting.
-
-
-## Total Sales by Day of the Week
-![Total Sales by Day of the Week](total_sales_by_day_of_the_week.png)  
-> Analysis shows Tuesdays and Saturdays have higher sales, while the rest of the days are slightly lower, helping guide staffing and promotions.
-
----
-
-## Total Sales by Product in Madalay, Naypyitaw, and Yangon
-![Total Sales by Product](total_sales_by_product_in_madalay_naypyitaw_yangon.png)  
-> Different cities have varying top-selling products. Yangon leads in certain products, Mandalay favours others. This informs inventory and marketing strategies.
-
----
-
-## Correlation Matrix Heatmap
-![Correlation Matrix Heatmap](visualised_the_correlation_matrix_as_a_heatmap.png)  
-> The heatmap reveals relationships between variables, identifying strong correlations and potential multicollinearity, supporting deeper analysis.
-
-## Key Insights
-- Weekends consistently generate higher sales than weekdays.  ### Average Basket Size per Week
-![Average Basket Size per Week](average_busket_size_per_week.png)
-> This visualization shows how the average basket size changes each week, helping identify peak shopping periods and optimize promotions or stock levels.
 
 - Product popularity varies by city, highlighting the need for targeted marketing and stocking strategies.  
 - Correlations between variables reveal patterns that can inform forecasting and decision-making.Visualizations & Analysis
 - 
-Total Sales by Day of the Week
+## Total Sales by Day of the Week
 
 Weekends consistently generate higher sales, while weekdays are lower. This insight helps with staffing decisions and targeted promotions.
 
@@ -107,7 +82,30 @@ Performance was compared across regions to identify high- and low-performing are
 
 Product categories and sub-categories were explored to understand their contribution to overall sales.
 
-Customer segments were analysed to assess purchasing behaviour.
+Customer segments were analysed to assess purchasing behaviour. Sales Calculation Statement (Portfolio-Ready)
+
+Sales values were aggregated across time periods, regions, and product categories to support analysis of trends and performance. This ensured a clear understanding of where sales are highest and how they vary over time.---### Total Sales by Month (Calculated and Visualised)
+
+![Total Sales by Month](total_sales_by_month_calculated_and_visualised.png)
+> Shows monthly sales trends, highlighting peaks and troughs to guide business planning and forecasting.
+
+
+## Total Sales by Day of the Week
+![Total Sales by Day of the Week](total_sales_by_day_of_the_week.png)  
+> Analysis shows Tuesdays and Saturdays have higher sales, while the rest of the days are slightly lower, helping guide staffing and promotions.
+
+
+## Average basket size per week 
+-![Average Basket Size per Week](average_busket_size_per_week.png)
+> This visualization shows how the average basket size changes each week, helping identify peak shopping periods and optimize promotions or stock levels--
+
+## Total Sales by Product in Madalay, Naypyitaw, and Yangon
+![Total Sales by Product](total_sales_by_product_in_madalay_naypyitaw_yangon.png)  
+> Different cities have varying top-selling products. Yangon leads in certain products, Mandalay favours others. This informs inventory and marketing strategies.
+
+## Correlation Matrix Heatmap
+![Correlation Matrix Heatmap](visualised_the_correlation_matrix_as_a_heatmap.png)  
+> The heatmap reveals relationships between variables, identifying strong correlations and potential multicollinearity, supporting deeper analysis.
 
 ## Key Insights
 
@@ -117,7 +115,7 @@ Product preferences differ by city, emphasizing the need for targeted marketing 
 
 Monthly sales trends provide clear peaks and troughs, useful for forecasting and planning.
 
-Changes in average basket size help understand customer behavior and optimize promotions.
+Changes in average basket size help understand customer behaviour and optimise promotions.
 
 ## Conclusion
 This project demonstrates the use of **data visualization and analysis** to derive actionable business insights. By combining day-of-week trends, city-level product analysis, and variable correlations, the project provides a clear understanding of sales dynamics, making it a strong portfolio example.
