@@ -1,5 +1,7 @@
 # SALES-ANALYSIS-PORTFOLIO
-Analysis of sales patterns, product performance by city, and variable correlations using visualizations and insights.Sales Analysis Portfolio Project
+Analysis of sales patterns, product performance by city, and variable correlations using visualizations and insights.
+
+Sales Analysis Portfolio Project
 
 Introduction
 
